@@ -1,4 +1,8 @@
 ## Hi there👋I'm Devansh Negi
+BCA Student | Python Developer | Data Science & Cybersecurity Enthusiast
+Passionate about building Python applications, Machine Learning projects, and exploring Cybersecurity while continuously improving my software development skills.
+
+
 
 # 💫 About Me:
 🎓 BCA Student<br>💻 Python Developer<br>📊 Interested in Data Science & Machine Learning<br>🌱 Currently learning Data Structures & Algorithms, SQL, Machine Learning, and Web Development<br>📚 Building real-world Python and Data Science projects<br>📫 Reach me at- negivansh49@gmail.com
